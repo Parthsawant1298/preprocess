@@ -1,0 +1,16 @@
+city,area,floor,price
+Delhi,1200,3,5000000
+Mumbai,1500,2,7000000
+Bangalore,,1,4000000
+Chennai,1300,4,
+Delhi,1100,2,4500000
+Mumbai,1400,3,5500000
+Bangalore,,1,3500000
+Chennai,1600,,6500000
+Mumbai,1050,2,4200000
+Bangalore,1250,3,5200000
+Delhi,,1,3000000
+Chennai,1150,2,4300000
+Mumbai,950,1,3800000
+Bangalore,1350,3,5300000
+Delhi,1000,2,4000000
